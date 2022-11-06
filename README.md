@@ -3,7 +3,7 @@
 1. Clone repo.
 
 ```
-git clone https://gitlab.com/scai-ksa/ai/yolov7-object-counting.git
+git clone https://github.com/adnasseri/yolov7-object-counting.git
 cd yolov7-object-counting
 ```
 
